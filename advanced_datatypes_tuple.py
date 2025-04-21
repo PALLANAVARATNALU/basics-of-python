@@ -2,6 +2,7 @@
 # Tuple Homogenous
 t=(10,20,30,40)
 print(type(t))
+print(len(t))
 t1=10,20,30,40
 print(type(t1))
 
